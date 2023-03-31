@@ -1,8 +1,8 @@
 ## Hi, I'm Matteo 🐧
 
-> I'm currently majoring a Master's degree in Software, Mobile and IOT development at [Nantes Ynov Campus](https://www.ynov-nantes.com)
+> Graduated with a Master's degree in Software, Mobile and IOT development from [Nantes Ynov Campus](https://www.ynov-nantes.com)
 
-> I work as a full-stack developer at [SMT Performances](https://smtperformances.com), an IOT startup based in Nantes (France), producing GPS trackers for motorbikes. I work primarly with TypeScript, React, GraphQL and python, and know my way around DevOps.
+> I work as a full-stack developer at [Pitchboy](https://pitchboy.sc), a french startup specialized in EdTech.
 
 [![HitCount](http://hits.dwyl.com/matteolecuit/matteolecuit.svg?style=flat-square&show=unique)](http://hits.dwyl.com/matteolecuit/matteolecuit)
 <div align="center">
